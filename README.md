@@ -12,3 +12,8 @@ Explore exciting Projects on Deep learning in this repository
   # 3. Deep CNN on CIFAR-10 Dataset
   
    A deep Convolutional Neural Network is applied on CIFAR-10 Dataset of images having 10 classes.
+   
+  # 4. Vertical Edge Detector 
+   
+   A convolution applied on a real world image of 512x512 pixels image to detect Vertical Edges.
+   
