@@ -1,5 +1,9 @@
 ## Deep_Learning_Hub
-Explore exciting Projects on Deep learning in this repository
+Welcome to my Deep Learning Hub !! 
+
+A big thanks to the Internet and social media that helped us generate huge amounts of data to explore with. Today, understanding deep learning is not limited to universities but has become an integral part in running huge organisations.
+
+I hope to add interesting projects and source codes in this repository
 
   # 1. Image Recognition in Keras 
   
@@ -16,4 +20,8 @@ Explore exciting Projects on Deep learning in this repository
   # 4. Vertical Edge Detector 
    
    A convolution applied on a real world image of 512x512 pixels image to detect Vertical Edges.
+   
+  # 5. Logistic Regression on a Single Neuron 
+  
+   A Neural Network from scratch is coded to implement the Forward and Backprop algorithms on CIFAR-10 Dataset.
    
