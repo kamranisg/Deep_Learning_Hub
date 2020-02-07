@@ -1,7 +1,7 @@
 ## Deep_Learning_Hub
 Welcome to my Deep Learning Hub !! 
 
-A big thanks to the Internet and social media that helped us generate huge amounts of data to explore with. Today, understanding deep learning is not limited to universities but has become an integral part in running huge organisations.
+A big thanks to the Internet and social media that helped us generate huge amounts of data to explore with. Today, understanding deep learning is not limited to just universities but has become an integral part in running huge organisations and Multi-National companies.
 
 I hope to add interesting projects and source codes in this repository
 
